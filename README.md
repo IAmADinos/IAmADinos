@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IAmADinos
 - 👀 I’m interested in: Dinosaurs
 - 🌱 I’m currently learning about dinosaurs
-- 💞️ I’m looking to collaborate on coding dinosaurs
+- 💞️ I’m looking to collaborate on coding dinosaurs and spreading the word on how amazing they are :)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like Dinosaurs <3
 

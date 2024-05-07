@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @IAmADinos
-- 👀 I’m interested in: Dinosaur
+- 👀 I’m interested in: Dinosaurs
 - 🌱 I’m currently learning about dinosaurs
-- 💞️ I’m looking to collaborate on dinosaurs
-- 😄 Pronouns: dino/saur
-- ⚡ Fun fact: I like Dinosaurs
+- 💞️ I’m looking to collaborate on coding dinosaurs
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I like Dinosaurs <3
 
 <!---
 IAmADinos/IAmADinos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
